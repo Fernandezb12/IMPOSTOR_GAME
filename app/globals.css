@@ -1,0 +1,44 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+  --font-inter: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    sans-serif;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  @apply bg-surface-900 text-white min-h-screen font-body;
+}
+
+.contrast body,
+.contrast {
+  background-color: #05060d;
+}
+
+.glass {
+  @apply bg-surface-800/70 backdrop-blur-xl border border-white/5 shadow-glass;
+}
+
+.card {
+  @apply bg-surface-800/90 border border-white/5 rounded-3xl shadow-card;
+}
+
+.gradient-border {
+  position: relative;
+}
+
+.gradient-border::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(120deg, #854cff, #00d5ff, #ff7a7a);
+  border-radius: inherit;
+  z-index: -1;
+  opacity: 0.6;
+}
