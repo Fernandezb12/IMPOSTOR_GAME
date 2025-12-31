@@ -31,6 +31,7 @@ export default function DealPage() {
       setStage("deal");
     }
   }, [assignRoles, setStage, state.players, state.runtime.assignment, state.settings]);
+  }, []);
 
   if (error) {
     return (

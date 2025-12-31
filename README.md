@@ -15,7 +15,7 @@ Party game mobile-first hecho con **Next.js (App Router), TailwindCSS, Zustand, 
 - `npm install` – instala dependencias.
 - `npm run dev` – servidor de desarrollo.
 - `npm run build` – build de producción.
-- `npm start` – sirve el build (ejecuta antes `npm run build`).
+- `npm start` – sirve el build.
 - `npm run lint` – linting de Next/ESLint.
 
 ## Estructura
