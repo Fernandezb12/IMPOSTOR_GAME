@@ -195,7 +195,7 @@ function ModeCard({
   emoji,
   active,
   onClick,
-  accent = \"from-brand-500/30\"
+  accent = "from-brand-500/30"
 }: {
   title: string;
   description: string;
