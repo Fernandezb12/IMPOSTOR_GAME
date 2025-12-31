@@ -1,0 +1,1 @@
+Placeholder para efecto de confirmación. Reemplaza con un archivo de audio real alojado fuera del repositorio o empaquetado en tu deploy.

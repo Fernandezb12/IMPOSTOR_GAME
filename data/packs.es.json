@@ -1,0 +1,3465 @@
+[
+  {
+    "id": "vida_cotidiana",
+    "name": "Vida Cotidiana",
+    "icon": "/assets/packs/icon-vida-cotidiana.png",
+    "cover": "/assets/packs/cover-vida-cotidiana.jpg",
+    "pairs": [
+      {
+        "real": "Tijeras",
+        "fake": "Peine",
+        "hint": "Baño / cuidado personal"
+      },
+      {
+        "real": "Almohada",
+        "fake": "Cojín",
+        "hint": "Dormitorio"
+      },
+      {
+        "real": "Sartén",
+        "fake": "Olla",
+        "hint": "Cocina"
+      },
+      {
+        "real": "Espejo",
+        "fake": "Cuadro",
+        "hint": "Decoración del hogar"
+      },
+      {
+        "real": "Linterna",
+        "fake": "Vela",
+        "hint": "Corte de luz"
+      },
+      {
+        "real": "Cepillo de dientes",
+        "fake": "Rastrillo",
+        "hint": "Rutina de la mañana"
+      },
+      {
+        "real": "Lavadora",
+        "fake": "Lavavajillas",
+        "hint": "Electrodomésticos"
+      },
+      {
+        "real": "Microondas",
+        "fake": "Horno",
+        "hint": "Calentar comida"
+      },
+      {
+        "real": "Planta",
+        "fake": "Flor artificial",
+        "hint": "Sala de estar"
+      },
+      {
+        "real": "Manta",
+        "fake": "Toalla",
+        "hint": "Algo para cubrirte"
+      },
+      {
+        "real": "Cafetera",
+        "fake": "Hervidor",
+        "hint": "Bebidas calientes"
+      },
+      {
+        "real": "Paraguas",
+        "fake": "Sombrero",
+        "hint": "Día lluvioso"
+      },
+      {
+        "real": "Llaves",
+        "fake": "Tarjeta magnética",
+        "hint": "Abrir una puerta"
+      },
+      {
+        "real": "Ventilador",
+        "fake": "Aire acondicionado",
+        "hint": "Refrescarse"
+      },
+      {
+        "real": "Botiquín",
+        "fake": "Cajón",
+        "hint": "Lugar para primeros auxilios"
+      },
+      {
+        "real": "Bote de basura",
+        "fake": "Reciclaje",
+        "hint": "Residuos"
+      },
+      {
+        "real": "Plancha",
+        "fake": "Vaporizador",
+        "hint": "Quitar arrugas"
+      },
+      {
+        "real": "Escoba",
+        "fake": "Plumero",
+        "hint": "Limpieza"
+      },
+      {
+        "real": "Sofá",
+        "fake": "Sillón",
+        "hint": "Zona de descanso"
+      },
+      {
+        "real": "Reloj de pared",
+        "fake": "Calendario",
+        "hint": "Tiempo"
+      },
+      {
+        "real": "Cerradura",
+        "fake": "Candado",
+        "hint": "Seguridad"
+      },
+      {
+        "real": "Router",
+        "fake": "Repetidor",
+        "hint": "Wi-Fi"
+      },
+      {
+        "real": "Maceta",
+        "fake": "Jarrón",
+        "hint": "Verde en casa"
+      },
+      {
+        "real": "Tendedero",
+        "fake": "Perchero",
+        "hint": "Colgar algo"
+      },
+      {
+        "real": "Frigorífico",
+        "fake": "Congelador",
+        "hint": "Guarda comida"
+      },
+      {
+        "real": "Bicicleta",
+        "fake": "Patineta",
+        "hint": "Transporte diario"
+      },
+      {
+        "real": "Bolso",
+        "fake": "Mochila",
+        "hint": "Para cargar cosas"
+      },
+      {
+        "real": "Cargador",
+        "fake": "Power bank",
+        "hint": "Mantener batería"
+      },
+      {
+        "real": "Cortina",
+        "fake": "Persiana",
+        "hint": "Cubrir ventana"
+      },
+      {
+        "real": "Escritorio",
+        "fake": "Mesa auxiliar",
+        "hint": "Lugar de trabajo"
+      },
+      {
+        "real": "Silla ergonómica",
+        "fake": "Banquito",
+        "hint": "Para sentarse"
+      },
+      {
+        "real": "Perfume",
+        "fake": "Ambientador",
+        "hint": "Buen olor"
+      },
+      {
+        "real": "Detergente",
+        "fake": "Suavizante",
+        "hint": "Lavar ropa"
+      },
+      {
+        "real": "Cerrador de bolsas",
+        "fake": "Clip",
+        "hint": "Guardar alimentos"
+      },
+      {
+        "real": "Ventana",
+        "fake": "Tragaluz",
+        "hint": "Entrada de luz"
+      }
+    ]
+  },
+  {
+    "id": "animales_naturaleza",
+    "name": "Animales y Naturaleza",
+    "icon": "/assets/packs/icon-animales-naturaleza.png",
+    "cover": "/assets/packs/cover-animales.jpg",
+    "pairs": [
+      {
+        "real": "León",
+        "fake": "Tigre",
+        "hint": "Felinos"
+      },
+      {
+        "real": "Águila",
+        "fake": "Halcón",
+        "hint": "Ave rapaz"
+      },
+      {
+        "real": "Delfín",
+        "fake": "Tiburón",
+        "hint": "Mar abierto"
+      },
+      {
+        "real": "Ballena",
+        "fake": "Orca",
+        "hint": "Gigantes marinos"
+      },
+      {
+        "real": "Elefante",
+        "fake": "Hipopótamo",
+        "hint": "Gigantes terrestres"
+      },
+      {
+        "real": "Panda",
+        "fake": "Koala",
+        "hint": "Animales tiernos"
+      },
+      {
+        "real": "Pingüino",
+        "fake": "Gaviota",
+        "hint": "Zonas frías"
+      },
+      {
+        "real": "Serpiente",
+        "fake": "Iguana",
+        "hint": "Reptiles"
+      },
+      {
+        "real": "Zorro",
+        "fake": "Coyote",
+        "hint": "Caninos salvajes"
+      },
+      {
+        "real": "Cebra",
+        "fake": "Jirafa",
+        "hint": "Sabana"
+      },
+      {
+        "real": "Lobo",
+        "fake": "Hiena",
+        "hint": "Manadas"
+      },
+      {
+        "real": "Mapache",
+        "fake": "Tejón",
+        "hint": "Nocturnos curiosos"
+      },
+      {
+        "real": "Canguro",
+        "fake": "Wallaby",
+        "hint": "Saltadores"
+      },
+      {
+        "real": "Flamenco",
+        "fake": "Cisne",
+        "hint": "Aves elegantes"
+      },
+      {
+        "real": "Camello",
+        "fake": "Dromedario",
+        "hint": "Desierto"
+      },
+      {
+        "real": "Pulpo",
+        "fake": "Medusa",
+        "hint": "Criaturas suaves marinas"
+      },
+      {
+        "real": "Caballo",
+        "fake": "Burro",
+        "hint": "Animales de carga"
+      },
+      {
+        "real": "Cabra",
+        "fake": "Oveja",
+        "hint": "Granja"
+      },
+      {
+        "real": "Perro",
+        "fake": "Gato",
+        "hint": "Mascotas"
+      },
+      {
+        "real": "Canario",
+        "fake": "Perico",
+        "hint": "Aves de casa"
+      },
+      {
+        "real": "Tortuga",
+        "fake": "Galápago",
+        "hint": "Caparazón"
+      },
+      {
+        "real": "Mono",
+        "fake": "Lemur",
+        "hint": "Selva"
+      },
+      {
+        "real": "Rana",
+        "fake": "Sapo",
+        "hint": "Anfibios"
+      },
+      {
+        "real": "Lince",
+        "fake": "Guepardo",
+        "hint": "Felinos veloces"
+      },
+      {
+        "real": "Búho",
+        "fake": "Lechuza",
+        "hint": "Nocturnos"
+      },
+      {
+        "real": "Ciervo",
+        "fake": "Alce",
+        "hint": "Bosque"
+      },
+      {
+        "real": "Caracol",
+        "fake": "Babosa",
+        "hint": "Con o sin caparazón"
+      },
+      {
+        "real": "Morsa",
+        "fake": "Foca",
+        "hint": "Bigotes marinos"
+      },
+      {
+        "real": "Nutria",
+        "fake": "Castor",
+        "hint": "Ríos"
+      },
+      {
+        "real": "Pez payaso",
+        "fake": "Pez cirujano",
+        "hint": "Arrecife"
+      },
+      {
+        "real": "Araña",
+        "fake": "Escorpión",
+        "hint": "Artrópodos"
+      },
+      {
+        "real": "Polilla",
+        "fake": "Mariposa",
+        "hint": "Alas"
+      },
+      {
+        "real": "Gallina",
+        "fake": "Pato",
+        "hint": "Corral"
+      },
+      {
+        "real": "Gorila",
+        "fake": "Orangután",
+        "hint": "Grandes primates"
+      },
+      {
+        "real": "Tucán",
+        "fake": "Guacamaya",
+        "hint": "Picos llamativos"
+      },
+      {
+        "real": "Ciempiés",
+        "fake": "Milpiés",
+        "hint": "Muchas patas"
+      }
+    ]
+  },
+  {
+    "id": "comida_bebidas",
+    "name": "Comida y Bebidas",
+    "icon": "/assets/packs/icon-comida.png",
+    "cover": "/assets/packs/cover-comida.jpg",
+    "pairs": [
+      {
+        "real": "Pizza margarita",
+        "fake": "Pizza de pepperoni",
+        "hint": "Clásico italiano"
+      },
+      {
+        "real": "Hamburguesa",
+        "fake": "Sandwich",
+        "hint": "Pan y relleno"
+      },
+      {
+        "real": "Sushi de salmón",
+        "fake": "Sushi de atún",
+        "hint": "Rollos"
+      },
+      {
+        "real": "Taco al pastor",
+        "fake": "Taco de carne asada",
+        "hint": "Comida callejera"
+      },
+      {
+        "real": "Paella",
+        "fake": "Arroz chaufa",
+        "hint": "Platos de arroz"
+      },
+      {
+        "real": "Ensalada César",
+        "fake": "Ensalada griega",
+        "hint": "Ensaladas famosas"
+      },
+      {
+        "real": "Café latte",
+        "fake": "Capuchino",
+        "hint": "Bebida con espuma"
+      },
+      {
+        "real": "Té verde",
+        "fake": "Té negro",
+        "hint": "Infusiones"
+      },
+      {
+        "real": "Batido de fresa",
+        "fake": "Batido de plátano",
+        "hint": "Bebidas dulces"
+      },
+      {
+        "real": "Jugo de naranja",
+        "fake": "Jugo de mandarina",
+        "hint": "Cítrico"
+      },
+      {
+        "real": "Helado de vainilla",
+        "fake": "Helado de coco",
+        "hint": "Postres fríos"
+      },
+      {
+        "real": "Brownie",
+        "fake": "Bizcocho",
+        "hint": "Chocolate"
+      },
+      {
+        "real": "Croissant",
+        "fake": "Concha",
+        "hint": "Panadería"
+      },
+      {
+        "real": "Arepa",
+        "fake": "Gordita",
+        "hint": "Maíz"
+      },
+      {
+        "real": "Empanada de carne",
+        "fake": "Empanada de pollo",
+        "hint": "Rellenos salados"
+      },
+      {
+        "real": "Papas fritas",
+        "fake": "Yuca frita",
+        "hint": "Acompañantes"
+      },
+      {
+        "real": "Sopa de tomate",
+        "fake": "Crema de calabaza",
+        "hint": "Sopas"
+      },
+      {
+        "real": "Lasaña",
+        "fake": "Canelones",
+        "hint": "Pasta al horno"
+      },
+      {
+        "real": "Ceviche",
+        "fake": "Coctel de camarón",
+        "hint": "Mariscos frescos"
+      },
+      {
+        "real": "Filete",
+        "fake": "Milanesa",
+        "hint": "Cortes de carne"
+      },
+      {
+        "real": "Pollo asado",
+        "fake": "Pollo frito",
+        "hint": "Aves"
+      },
+      {
+        "real": "Quesadilla",
+        "fake": "Burrito",
+        "hint": "Tortilla con relleno"
+      },
+      {
+        "real": "Ramen",
+        "fake": "Pho",
+        "hint": "Sopas asiáticas"
+      },
+      {
+        "real": "Galleta de chocolate",
+        "fake": "Galleta de avena",
+        "hint": "Dulces horneados"
+      },
+      {
+        "real": "Pastel de queso",
+        "fake": "Pastel de limón",
+        "hint": "Postres cremosos"
+      },
+      {
+        "real": "Gazpacho",
+        "fake": "Salmorejo",
+        "hint": "Frío y rojo"
+      },
+      {
+        "real": "Panqueques",
+        "fake": "Crepas",
+        "hint": "Desayuno dulce"
+      },
+      {
+        "real": "Tamales",
+        "fake": "Hallacas",
+        "hint": "Envuelto en hojas"
+      },
+      {
+        "real": "Churros",
+        "fake": "Buñuelos",
+        "hint": "Fritos dulces"
+      },
+      {
+        "real": "Agua mineral",
+        "fake": "Agua de coco",
+        "hint": "Bebidas claras"
+      },
+      {
+        "real": "Chocolate caliente",
+        "fake": "Ponche",
+        "hint": "Bebida reconfortante"
+      },
+      {
+        "real": "Cereal",
+        "fake": "Granola",
+        "hint": "Desayunos"
+      },
+      {
+        "real": "Yogur",
+        "fake": "Kefir",
+        "hint": "Lácteos"
+      },
+      {
+        "real": "Papaya",
+        "fake": "Mango",
+        "hint": "Fruta tropical"
+      },
+      {
+        "real": "Manzana",
+        "fake": "Pera",
+        "hint": "Fruta de árbol"
+      },
+      {
+        "real": "Limonada",
+        "fake": "Naranjada",
+        "hint": "Refrescante"
+      }
+    ]
+  },
+  {
+    "id": "escuela",
+    "name": "Escuela",
+    "icon": "/assets/packs/icon-escuela.png",
+    "cover": "/assets/packs/cover-escuela.jpg",
+    "pairs": [
+      {
+        "real": "Pizarra",
+        "fake": "Pantalla",
+        "hint": "Frente de la clase"
+      },
+      {
+        "real": "Mochila",
+        "fake": "Maletín",
+        "hint": "Transporta útiles"
+      },
+      {
+        "real": "Cuaderno",
+        "fake": "Carpeta",
+        "hint": "Tomar apuntes"
+      },
+      {
+        "real": "Lapicero",
+        "fake": "Marcador",
+        "hint": "Escribir"
+      },
+      {
+        "real": "Regla",
+        "fake": "Transportador",
+        "hint": "Medir"
+      },
+      {
+        "real": "Compás",
+        "fake": "Escuadra",
+        "hint": "Geometría"
+      },
+      {
+        "real": "Profesor",
+        "fake": "Tutor",
+        "hint": "Guía"
+      },
+      {
+        "real": "Alumno",
+        "fake": "Becario",
+        "hint": "Estudiante"
+      },
+      {
+        "real": "Recreo",
+        "fake": "Descanso activo",
+        "hint": "Pausa"
+      },
+      {
+        "real": "Examen",
+        "fake": "Quiz sorpresa",
+        "hint": "Evaluación"
+      },
+      {
+        "real": "Biblioteca",
+        "fake": "Hemeroteca",
+        "hint": "Leer"
+      },
+      {
+        "real": "Laboratorio",
+        "fake": "Sala de cómputo",
+        "hint": "Experimentar"
+      },
+      {
+        "real": "Uniforme",
+        "fake": "Bata",
+        "hint": "Vestimenta"
+      },
+      {
+        "real": "Bus escolar",
+        "fake": "Transporte privado",
+        "hint": "Llegar a clases"
+      },
+      {
+        "real": "Matemáticas",
+        "fake": "Física",
+        "hint": "Ciencias exactas"
+      },
+      {
+        "real": "Historia",
+        "fake": "Geografía",
+        "hint": "Ciencias sociales"
+      },
+      {
+        "real": "Arte",
+        "fake": "Música",
+        "hint": "Creatividad"
+      },
+      {
+        "real": "Educación física",
+        "fake": "Atletismo",
+        "hint": "Movimiento"
+      },
+      {
+        "real": "Tarea",
+        "fake": "Proyecto",
+        "hint": "Asignaciones"
+      },
+      {
+        "real": "Calificaciones",
+        "fake": "Boletín",
+        "hint": "Resultados"
+      },
+      {
+        "real": "Director",
+        "fake": "Coordinador",
+        "hint": "Autoridad"
+      },
+      {
+        "real": "Salón",
+        "fake": "Auditorio",
+        "hint": "Espacio"
+      },
+      {
+        "real": "Borrador",
+        "fake": "Gamuza",
+        "hint": "Limpiar"
+      },
+      {
+        "real": "Rotafolio",
+        "fake": "Cartulina",
+        "hint": "Presentación"
+      },
+      {
+        "real": "Pluma fuente",
+        "fake": "Lápiz mecánico",
+        "hint": "Escritura"
+      },
+      {
+        "real": "Exposición",
+        "fake": "Debate",
+        "hint": "Hablar en público"
+      },
+      {
+        "real": "Mapa",
+        "fake": "Globo terráqueo",
+        "hint": "Ubicación"
+      },
+      {
+        "real": "Calculadora",
+        "fake": "Ábaco",
+        "hint": "Números"
+      },
+      {
+        "real": "Puntero",
+        "fake": "Láser",
+        "hint": "Señalar"
+      },
+      {
+        "real": "Horario",
+        "fake": "Calendario escolar",
+        "hint": "Planificación"
+      },
+      {
+        "real": "Receso",
+        "fake": "Almuerzo",
+        "hint": "Pausa media"
+      },
+      {
+        "real": "Tesis",
+        "fake": "Ensayo",
+        "hint": "Trabajo escrito"
+      },
+      {
+        "real": "Becado",
+        "fake": "Matriculado",
+        "hint": "Estado"
+      },
+      {
+        "real": "Notas adhesivas",
+        "fake": "Separadores",
+        "hint": "Organización"
+      },
+      {
+        "real": "Tutoría",
+        "fake": "Asesoría",
+        "hint": "Apoyo"
+      },
+      {
+        "real": "Microscopio",
+        "fake": "Lupa",
+        "hint": "Ampliar"
+      }
+    ]
+  },
+  {
+    "id": "deportes",
+    "name": "Deportes",
+    "icon": "/assets/packs/icon-deportes.png",
+    "cover": "/assets/packs/cover-deportes.jpg",
+    "pairs": [
+      {
+        "real": "Fútbol",
+        "fake": "Futbol sala",
+        "hint": "Balón y equipo"
+      },
+      {
+        "real": "Baloncesto",
+        "fake": "Voleibol",
+        "hint": "Cancha"
+      },
+      {
+        "real": "Tenis",
+        "fake": "Pádel",
+        "hint": "Raquetas"
+      },
+      {
+        "real": "Natación",
+        "fake": "Waterpolo",
+        "hint": "Piscina"
+      },
+      {
+        "real": "Ciclismo",
+        "fake": "Spinning",
+        "hint": "Bicicletas"
+      },
+      {
+        "real": "Atletismo",
+        "fake": "Trail",
+        "hint": "Correr"
+      },
+      {
+        "real": "Béisbol",
+        "fake": "Softbol",
+        "hint": "Bate"
+      },
+      {
+        "real": "Boxeo",
+        "fake": "Kickboxing",
+        "hint": "Guantes"
+      },
+      {
+        "real": "Arquería",
+        "fake": "Paintball",
+        "hint": "Apuntar"
+      },
+      {
+        "real": "Golf",
+        "fake": "Minigolf",
+        "hint": "Palos"
+      },
+      {
+        "real": "Hockey sobre hielo",
+        "fake": "Hockey sobre césped",
+        "hint": "Stick"
+      },
+      {
+        "real": "Patinaje artístico",
+        "fake": "Patinaje de velocidad",
+        "hint": "Patines"
+      },
+      {
+        "real": "Surf",
+        "fake": "Bodyboard",
+        "hint": "Olas"
+      },
+      {
+        "real": "Escalada",
+        "fake": "Boulder",
+        "hint": "Roca"
+      },
+      {
+        "real": "Esquí",
+        "fake": "Snowboard",
+        "hint": "Nieve"
+      },
+      {
+        "real": "Rugby",
+        "fake": "Football americano",
+        "hint": "Placajes"
+      },
+      {
+        "real": "Ping pong",
+        "fake": "Badminton",
+        "hint": "Red"
+      },
+      {
+        "real": "Bolos",
+        "fake": "Petanca",
+        "hint": "Lanzar"
+      },
+      {
+        "real": "Gimnasia",
+        "fake": "Pilates",
+        "hint": "Flexibilidad"
+      },
+      {
+        "real": "Esgrima",
+        "fake": "Kendo",
+        "hint": "Espadas"
+      },
+      {
+        "real": "Karate",
+        "fake": "Taekwondo",
+        "hint": "Artes marciales"
+      },
+      {
+        "real": "Remo",
+        "fake": "Kayak",
+        "hint": "Agua y remo"
+      },
+      {
+        "real": "Triatlón",
+        "fake": "Duatlón",
+        "hint": "Varias disciplinas"
+      },
+      {
+        "real": "Skate",
+        "fake": "Scooter",
+        "hint": "Rampa"
+      },
+      {
+        "real": "Parkour",
+        "fake": "Gimnasio",
+        "hint": "Saltos"
+      },
+      {
+        "real": "Ajedrez",
+        "fake": "Damas",
+        "hint": "Mesa estratégica"
+      },
+      {
+        "real": "Pesas",
+        "fake": "Crossfit",
+        "hint": "Fuerza"
+      },
+      {
+        "real": "Escalada en bloque",
+        "fake": "Escalada deportiva",
+        "hint": "Muros"
+      },
+      {
+        "real": "Yoga",
+        "fake": "Stretching",
+        "hint": "Respiración"
+      },
+      {
+        "real": "Salto de altura",
+        "fake": "Salto con garrocha",
+        "hint": "Pista"
+      },
+      {
+        "real": "Marcha",
+        "fake": "Trote",
+        "hint": "Caminata"
+      },
+      {
+        "real": "Natación sincronizada",
+        "fake": "Clavados",
+        "hint": "Piscina artística"
+      },
+      {
+        "real": "Patinaje sobre ruedas",
+        "fake": "Patinaje en hielo",
+        "hint": "Patines"
+      },
+      {
+        "real": "Esquí de fondo",
+        "fake": "Raquetas de nieve",
+        "hint": "Moverse en invierno"
+      },
+      {
+        "real": "Kitesurf",
+        "fake": "Windsurf",
+        "hint": "Viento y agua"
+      },
+      {
+        "real": "Snorkel",
+        "fake": "Buceo",
+        "hint": "Explorar debajo"
+      },
+      {
+        "real": "Automovilismo",
+        "fake": "Karting",
+        "hint": "Motores"
+      },
+      {
+        "real": "Hipismo",
+        "fake": "Polo",
+        "hint": "Caballos"
+      }
+    ]
+  },
+  {
+    "id": "cine_tv",
+    "name": "Cine y Televisión",
+    "icon": "/assets/packs/icon-cine.png",
+    "cover": "/assets/packs/cover-cine.jpg",
+    "pairs": [
+      {
+        "real": "Director",
+        "fake": "Productor",
+        "hint": "Equipo de rodaje"
+      },
+      {
+        "real": "Guión",
+        "fake": "Storyboard",
+        "hint": "Historia"
+      },
+      {
+        "real": "Claqueta",
+        "fake": "Micrófono boom",
+        "hint": "Set"
+      },
+      {
+        "real": "Cámara",
+        "fake": "Dron",
+        "hint": "Grabación"
+      },
+      {
+        "real": "Actriz principal",
+        "fake": "Doble de acción",
+        "hint": "Interpretación"
+      },
+      {
+        "real": "Villano",
+        "fake": "Anti héroe",
+        "hint": "Personaje"
+      },
+      {
+        "real": "Género terror",
+        "fake": "Género suspenso",
+        "hint": "Asustar"
+      },
+      {
+        "real": "Comedia romántica",
+        "fake": "Drama",
+        "hint": "Sentimientos"
+      },
+      {
+        "real": "Documental",
+        "fake": "Reportaje",
+        "hint": "Realidad"
+      },
+      {
+        "real": "Ciencia ficción",
+        "fake": "Fantástico",
+        "hint": "Mundos"
+      },
+      {
+        "real": "Animación",
+        "fake": "Stop motion",
+        "hint": "Dibujo"
+      },
+      {
+        "real": "Banda sonora",
+        "fake": "Tema principal",
+        "hint": "Música"
+      },
+      {
+        "real": "Cameo",
+        "fake": "Extra",
+        "hint": "Aparición"
+      },
+      {
+        "real": "Tráiler",
+        "fake": "Teaser",
+        "hint": "Avance"
+      },
+      {
+        "real": "Estreno",
+        "fake": "Avant premiere",
+        "hint": "Primera vez"
+      },
+      {
+        "real": "Palomitas",
+        "fake": "Nachos",
+        "hint": "Snacks de cine"
+      },
+      {
+        "real": "Butaca",
+        "fake": "Balcon",
+        "hint": "Asiento"
+      },
+      {
+        "real": "Créditos",
+        "fake": "Epílogo",
+        "hint": "Final"
+      },
+      {
+        "real": "Cinematografía",
+        "fake": "Fotografía",
+        "hint": "Imagen"
+      },
+      {
+        "real": "Storyboard",
+        "fake": "Animatic",
+        "hint": "Previsualización"
+      },
+      {
+        "real": "Maquillaje",
+        "fake": "Efectos especiales",
+        "hint": "Transformación"
+      },
+      {
+        "real": "Vestuario",
+        "fake": "Atrezzo",
+        "hint": "Ropa en pantalla"
+      },
+      {
+        "real": "Ensayo",
+        "fake": "Casting",
+        "hint": "Proceso"
+      },
+      {
+        "real": "Director de arte",
+        "fake": "Diseñador de producción",
+        "hint": "Visual"
+      },
+      {
+        "real": "Festival",
+        "fake": "Premiación",
+        "hint": "Alfombra roja"
+      },
+      {
+        "real": "Poster",
+        "fake": "Flyer",
+        "hint": "Publicidad"
+      },
+      {
+        "real": "Distribución",
+        "fake": "Exhibición",
+        "hint": "Recorrido"
+      },
+      {
+        "real": "Sala IMAX",
+        "fake": "Sala 3D",
+        "hint": "Formato"
+      },
+      {
+        "real": "Película independiente",
+        "fake": "Blockbuster",
+        "hint": "Producción"
+      },
+      {
+        "real": "Doblaje",
+        "fake": "Subtítulos",
+        "hint": "Idioma"
+      },
+      {
+        "real": "Tomás falsas",
+        "fake": "Bloopers",
+        "hint": "Errores"
+      },
+      {
+        "real": "Cliffhanger",
+        "fake": "Final cerrado",
+        "hint": "Tipo de final"
+      },
+      {
+        "real": "Saga",
+        "fake": "Trilogía",
+        "hint": "Varias películas"
+      },
+      {
+        "real": "Actuación",
+        "fake": "Improv",
+        "hint": "Performance"
+      },
+      {
+        "real": "Plano secuencia",
+        "fake": "Plano detalle",
+        "hint": "Cámara"
+      },
+      {
+        "real": "Storyboard digital",
+        "fake": "Animatic 3D",
+        "hint": "Previz"
+      },
+      {
+        "real": "Crítica",
+        "fake": "Análisis",
+        "hint": "Opinión"
+      },
+      {
+        "real": "Taquilla",
+        "fake": "Recaudación",
+        "hint": "Dinero"
+      }
+    ]
+  },
+  {
+    "id": "musica",
+    "name": "Música",
+    "icon": "/assets/packs/icon-musica.png",
+    "cover": "/assets/packs/cover-musica.jpg",
+    "pairs": [
+      {
+        "real": "Guitarra acústica",
+        "fake": "Guitarra eléctrica",
+        "hint": "Cuerdas"
+      },
+      {
+        "real": "Piano",
+        "fake": "Teclado",
+        "hint": "Teclas"
+      },
+      {
+        "real": "Batería",
+        "fake": "Cajón peruano",
+        "hint": "Percusión"
+      },
+      {
+        "real": "Bajo",
+        "fake": "Contrabajo",
+        "hint": "Graves"
+      },
+      {
+        "real": "Violín",
+        "fake": "Viola",
+        "hint": "Orquesta"
+      },
+      {
+        "real": "Saxofón",
+        "fake": "Clarinete",
+        "hint": "Viento"
+      },
+      {
+        "real": "Trompeta",
+        "fake": "Trombón",
+        "hint": "Brass"
+      },
+      {
+        "real": "Flauta",
+        "fake": "Ocarina",
+        "hint": "Melodías de aire"
+      },
+      {
+        "real": "DJ",
+        "fake": "Productor",
+        "hint": "Música electrónica"
+      },
+      {
+        "real": "Cantautor",
+        "fake": "Vocalista",
+        "hint": "Voz"
+      },
+      {
+        "real": "Balada",
+        "fake": "Bolero",
+        "hint": "Romántico"
+      },
+      {
+        "real": "Rock",
+        "fake": "Metal",
+        "hint": "Guitarras"
+      },
+      {
+        "real": "Pop",
+        "fake": "K-pop",
+        "hint": "Popular"
+      },
+      {
+        "real": "Reguetón",
+        "fake": "Dembow",
+        "hint": "Baile"
+      },
+      {
+        "real": "Salsa",
+        "fake": "Merengue",
+        "hint": "Latino"
+      },
+      {
+        "real": "Bachata",
+        "fake": "Cumbia",
+        "hint": "Tropical"
+      },
+      {
+        "real": "Jazz",
+        "fake": "Blues",
+        "hint": "Improvisación"
+      },
+      {
+        "real": "Rap",
+        "fake": "Trap",
+        "hint": "Rimas"
+      },
+      {
+        "real": "Ópera",
+        "fake": "Zarzuela",
+        "hint": "Teatro musical"
+      },
+      {
+        "real": "Folklore",
+        "fake": "Música andina",
+        "hint": "Tradición"
+      },
+      {
+        "real": "Festival",
+        "fake": "Concierto",
+        "hint": "En vivo"
+      },
+      {
+        "real": "Corista",
+        "fake": "Dúo",
+        "hint": "Voces"
+      },
+      {
+        "real": "Nota aguda",
+        "fake": "Nota grave",
+        "hint": "Altura"
+      },
+      {
+        "real": "Compás",
+        "fake": "Tempo",
+        "hint": "Ritmo"
+      },
+      {
+        "real": "Afinación",
+        "fake": "Tono",
+        "hint": "Ajuste"
+      },
+      {
+        "real": "Subwoofer",
+        "fake": "Parlante",
+        "hint": "Sonido"
+      },
+      {
+        "real": "Auriculares",
+        "fake": "Monitores de estudio",
+        "hint": "Escucha"
+      },
+      {
+        "real": "Vinilo",
+        "fake": "Cassette",
+        "hint": "Formato"
+      },
+      {
+        "real": "Lista de reproducción",
+        "fake": "Álbum",
+        "hint": "Colección"
+      },
+      {
+        "real": "Ensayo",
+        "fake": "Soundcheck",
+        "hint": "Prueba"
+      },
+      {
+        "real": "Micrófono",
+        "fake": "Megáfono",
+        "hint": "Amplificar"
+      },
+      {
+        "real": "Partitura",
+        "fake": "Cifrado",
+        "hint": "Leer música"
+      },
+      {
+        "real": "Sinfónica",
+        "fake": "Cámara",
+        "hint": "Tamaño de orquesta"
+      },
+      {
+        "real": "Sample",
+        "fake": "Loop",
+        "hint": "Repetición"
+      },
+      {
+        "real": "Puente",
+        "fake": "Coro",
+        "hint": "Estructura"
+      },
+      {
+        "real": "Intro",
+        "fake": "Outro",
+        "hint": "Inicio o fin"
+      },
+      {
+        "real": "Drop",
+        "fake": "Build up",
+        "hint": "Clímax electrónico"
+      }
+    ]
+  },
+  {
+    "id": "tecnologia",
+    "name": "Tecnología",
+    "icon": "/assets/packs/icon-tecnologia.png",
+    "cover": "/assets/packs/cover-tecnologia.jpg",
+    "pairs": [
+      {
+        "real": "Laptop",
+        "fake": "Tablet",
+        "hint": "Trabajo portátil"
+      },
+      {
+        "real": "Smartphone",
+        "fake": "Feature phone",
+        "hint": "Bolsillo"
+      },
+      {
+        "real": "Smartwatch",
+        "fake": "Pulsera fitness",
+        "hint": "Muñeca"
+      },
+      {
+        "real": "Router",
+        "fake": "Módem",
+        "hint": "Internet"
+      },
+      {
+        "real": "Servidor",
+        "fake": "NAS",
+        "hint": "Almacenamiento"
+      },
+      {
+        "real": "Auriculares",
+        "fake": "Manos libres",
+        "hint": "Escuchar"
+      },
+      {
+        "real": "Monitor",
+        "fake": "Proyector",
+        "hint": "Pantalla"
+      },
+      {
+        "real": "Teclado mecánico",
+        "fake": "Teclado de membrana",
+        "hint": "Escritura"
+      },
+      {
+        "real": "Mouse",
+        "fake": "Trackpad",
+        "hint": "Apuntar"
+      },
+      {
+        "real": "Cámara web",
+        "fake": "Cámara DSLR",
+        "hint": "Video"
+      },
+      {
+        "real": "Impresora",
+        "fake": "Plotter",
+        "hint": "Imprimir"
+      },
+      {
+        "real": "Nube",
+        "fake": "Disco externo",
+        "hint": "Backup"
+      },
+      {
+        "real": "USB-C",
+        "fake": "Micro USB",
+        "hint": "Conectores"
+      },
+      {
+        "real": "HDMI",
+        "fake": "DisplayPort",
+        "hint": "Salida de video"
+      },
+      {
+        "real": "Procesador",
+        "fake": "Tarjeta gráfica",
+        "hint": "Componentes"
+      },
+      {
+        "real": "RAM",
+        "fake": "Almacenamiento SSD",
+        "hint": "Memoria"
+      },
+      {
+        "real": "Smart TV",
+        "fake": "Chromecast",
+        "hint": "Entretenimiento"
+      },
+      {
+        "real": "Realidad virtual",
+        "fake": "Realidad aumentada",
+        "hint": "Inmersión"
+      },
+      {
+        "real": "Dron",
+        "fake": "Robot aspirador",
+        "hint": "Gadgets"
+      },
+      {
+        "real": "Panel solar",
+        "fake": "Batería externa",
+        "hint": "Energía"
+      },
+      {
+        "real": "Firewall",
+        "fake": "Antivirus",
+        "hint": "Seguridad"
+      },
+      {
+        "real": "Base de datos",
+        "fake": "API",
+        "hint": "Backend"
+      },
+      {
+        "real": "Framework",
+        "fake": "Librería",
+        "hint": "Código"
+      },
+      {
+        "real": "Repositorio",
+        "fake": "Branch",
+        "hint": "Control de versiones"
+      },
+      {
+        "real": "Correo",
+        "fake": "Chat",
+        "hint": "Comunicación"
+      },
+      {
+        "real": "Videollamada",
+        "fake": "Stream",
+        "hint": "En vivo"
+      },
+      {
+        "real": "Bluetooth",
+        "fake": "Wi-Fi",
+        "hint": "Conexión inalámbrica"
+      },
+      {
+        "real": "Sensor de huella",
+        "fake": "Reconocimiento facial",
+        "hint": "Biometría"
+      },
+      {
+        "real": "Contraseña",
+        "fake": "Token",
+        "hint": "Acceso"
+      },
+      {
+        "real": "Automatización",
+        "fake": "Script",
+        "hint": "Tareas repetitivas"
+      },
+      {
+        "real": "Git",
+        "fake": "SVN",
+        "hint": "Versionado"
+      },
+      {
+        "real": "Consola",
+        "fake": "Terminal",
+        "hint": "Comandos"
+      },
+      {
+        "real": "Webhook",
+        "fake": "Cola de mensajes",
+        "hint": "Integración"
+      },
+      {
+        "real": "Microservicios",
+        "fake": "Monolito",
+        "hint": "Arquitecturas"
+      },
+      {
+        "real": "Container",
+        "fake": "Máquina virtual",
+        "hint": "Infraestructura"
+      },
+      {
+        "real": "Dark mode",
+        "fake": "Alto contraste",
+        "hint": "UI"
+      },
+      {
+        "real": "Servidor edge",
+        "fake": "CDN",
+        "hint": "Entrega"
+      }
+    ]
+  },
+  {
+    "id": "trabajos_oficios",
+    "name": "Trabajos y Oficios",
+    "icon": "/assets/packs/icon-trabajos.png",
+    "cover": "/assets/packs/cover-trabajos.jpg",
+    "pairs": [
+      {
+        "real": "Médico",
+        "fake": "Enfermero",
+        "hint": "Salud"
+      },
+      {
+        "real": "Bombero",
+        "fake": "Paramédico",
+        "hint": "Emergencias"
+      },
+      {
+        "real": "Chef",
+        "fake": "Cocinero",
+        "hint": "Cocina"
+      },
+      {
+        "real": "Ingeniero civil",
+        "fake": "Arquitecto",
+        "hint": "Construcción"
+      },
+      {
+        "real": "Profesor",
+        "fake": "Mentor",
+        "hint": "Educación"
+      },
+      {
+        "real": "Abogado",
+        "fake": "Notario",
+        "hint": "Legal"
+      },
+      {
+        "real": "Carpintero",
+        "fake": "Ebanista",
+        "hint": "Madera"
+      },
+      {
+        "real": "Electricista",
+        "fake": "Técnico de redes",
+        "hint": "Instalaciones"
+      },
+      {
+        "real": "Plomero",
+        "fake": "Gasista",
+        "hint": "Tuberías"
+      },
+      {
+        "real": "Piloto",
+        "fake": "Azafata",
+        "hint": "Aviones"
+      },
+      {
+        "real": "Conductor",
+        "fake": "Repartidor",
+        "hint": "Transporte"
+      },
+      {
+        "real": "Diseñador gráfico",
+        "fake": "Ilustrador",
+        "hint": "Creatividad"
+      },
+      {
+        "real": "Programador",
+        "fake": "Tester",
+        "hint": "Software"
+      },
+      {
+        "real": "Periodista",
+        "fake": "Reportero",
+        "hint": "Noticias"
+      },
+      {
+        "real": "Fotógrafo",
+        "fake": "Videógrafo",
+        "hint": "Imagen"
+      },
+      {
+        "real": "Agricultor",
+        "fake": "Ganadero",
+        "hint": "Campo"
+      },
+      {
+        "real": "Barista",
+        "fake": "Cantinero",
+        "hint": "Bebidas"
+      },
+      {
+        "real": "Panadero",
+        "fake": "Pastelero",
+        "hint": "Panadería"
+      },
+      {
+        "real": "Científico",
+        "fake": "Investigador",
+        "hint": "Laboratorio"
+      },
+      {
+        "real": "Veterinario",
+        "fake": "Zoologo",
+        "hint": "Animales"
+      },
+      {
+        "real": "Mecánico",
+        "fake": "Tornero",
+        "hint": "Taller"
+      },
+      {
+        "real": "Psicólogo",
+        "fake": "Coach",
+        "hint": "Apoyo"
+      },
+      {
+        "real": "Actor",
+        "fake": "Doblador",
+        "hint": "Escenario"
+      },
+      {
+        "real": "Director de cine",
+        "fake": "Productor",
+        "hint": "Cine"
+      },
+      {
+        "real": "Guía turístico",
+        "fake": "Agente de viajes",
+        "hint": "Viajes"
+      },
+      {
+        "real": "Seguridad",
+        "fake": "Guardia",
+        "hint": "Protección"
+      },
+      {
+        "real": "Costurero",
+        "fake": "Modista",
+        "hint": "Textiles"
+      },
+      {
+        "real": "Florista",
+        "fake": "Paisajista",
+        "hint": "Plantas"
+      },
+      {
+        "real": "Recepcionista",
+        "fake": "Secretario",
+        "hint": "Oficina"
+      },
+      {
+        "real": "Analista de datos",
+        "fake": "Científico de datos",
+        "hint": "Números"
+      },
+      {
+        "real": "Consultor",
+        "fake": "Asesor",
+        "hint": "Estrategia"
+      },
+      {
+        "real": "Editor",
+        "fake": "Corrector",
+        "hint": "Textos"
+      },
+      {
+        "real": "Locutor",
+        "fake": "Presentador",
+        "hint": "Voz"
+      },
+      {
+        "real": "Artesano",
+        "fake": "Joyería",
+        "hint": "Manos"
+      },
+      {
+        "real": "Dentista",
+        "fake": "Higienista",
+        "hint": "Boca"
+      },
+      {
+        "real": "Logístico",
+        "fake": "Inventarista",
+        "hint": "Operaciones"
+      },
+      {
+        "real": "Community manager",
+        "fake": "Social media",
+        "hint": "Redes"
+      }
+    ]
+  },
+  {
+    "id": "viajes_lugares",
+    "name": "Viajes y Lugares",
+    "icon": "/assets/packs/icon-viajes.png",
+    "cover": "/assets/packs/cover-viajes.jpg",
+    "pairs": [
+      {
+        "real": "Maleta",
+        "fake": "Mochila",
+        "hint": "Equipaje"
+      },
+      {
+        "real": "Pasaporte",
+        "fake": "Documento de identidad",
+        "hint": "Viajar"
+      },
+      {
+        "real": "Vuelo",
+        "fake": "Tren",
+        "hint": "Traslados"
+      },
+      {
+        "real": "Hotel",
+        "fake": "Hostal",
+        "hint": "Alojamiento"
+      },
+      {
+        "real": "Check-in",
+        "fake": "Boarding",
+        "hint": "Embarque"
+      },
+      {
+        "real": "Playa",
+        "fake": "Piscina",
+        "hint": "Agua"
+      },
+      {
+        "real": "Montaña",
+        "fake": "Bosque",
+        "hint": "Senderismo"
+      },
+      {
+        "real": "City tour",
+        "fake": "Museo",
+        "hint": "Turismo"
+      },
+      {
+        "real": "Souvenir",
+        "fake": "Postal",
+        "hint": "Recuerdos"
+      },
+      {
+        "real": "Mapa",
+        "fake": "GPS",
+        "hint": "Orientación"
+      },
+      {
+        "real": "Crucero",
+        "fake": "Ferry",
+        "hint": "Barco"
+      },
+      {
+        "real": "Camping",
+        "fake": "Glamping",
+        "hint": "Noche al aire libre"
+      },
+      {
+        "real": "Caravana",
+        "fake": "Auto rentado",
+        "hint": "Sobre ruedas"
+      },
+      {
+        "real": "Seguro de viaje",
+        "fake": "Botiquín",
+        "hint": "Precaución"
+      },
+      {
+        "real": "Itinerario",
+        "fake": "Agenda",
+        "hint": "Plan"
+      },
+      {
+        "real": "Guía turístico",
+        "fake": "Audio guía",
+        "hint": "Información"
+      },
+      {
+        "real": "Cambio de moneda",
+        "fake": "Cajero",
+        "hint": "Dinero"
+      },
+      {
+        "real": "Heladería",
+        "fake": "Cafetería",
+        "hint": "Parada dulce"
+      },
+      {
+        "real": "Carnaval",
+        "fake": "Festival",
+        "hint": "Evento"
+      },
+      {
+        "real": "Templo",
+        "fake": "Catedral",
+        "hint": "Cultura"
+      },
+      {
+        "real": "Parque nacional",
+        "fake": "Reserva",
+        "hint": "Naturaleza"
+      },
+      {
+        "real": "Mirador",
+        "fake": "Faro",
+        "hint": "Vista"
+      },
+      {
+        "real": "Safari",
+        "fake": "Zoológico",
+        "hint": "Animales"
+      },
+      {
+        "real": "Mercado local",
+        "fake": "Supermercado",
+        "hint": "Compras"
+      },
+      {
+        "real": "Taxi",
+        "fake": "Transporte público",
+        "hint": "Moverse"
+      },
+      {
+        "real": "Aplicación de mapas",
+        "fake": "Mapa impreso",
+        "hint": "Navegar"
+      },
+      {
+        "real": "Clima",
+        "fake": "Pronóstico",
+        "hint": "Tiempo"
+      },
+      {
+        "real": "Puesta de sol",
+        "fake": "Amanecer",
+        "hint": "Cielos"
+      },
+      {
+        "real": "Traducción",
+        "fake": "Gestos",
+        "hint": "Idioma"
+      },
+      {
+        "real": "Wifi portátil",
+        "fake": "SIM local",
+        "hint": "Conexión"
+      },
+      {
+        "real": "Restaurante típico",
+        "fake": "Food truck",
+        "hint": "Comer"
+      },
+      {
+        "real": "Cueva",
+        "fake": "Cañón",
+        "hint": "Formaciones"
+      },
+      {
+        "real": "Isla",
+        "fake": "Archipiélago",
+        "hint": "Mar"
+      },
+      {
+        "real": "Desierto",
+        "fake": "Oasis",
+        "hint": "Arena"
+      },
+      {
+        "real": "Pueblo mágico",
+        "fake": "Ciudad histórica",
+        "hint": "Encanto"
+      },
+      {
+        "real": "Museo de arte",
+        "fake": "Museo de ciencia",
+        "hint": "Exhibición"
+      },
+      {
+        "real": "Aventura",
+        "fake": "Relax",
+        "hint": "Estilo de viaje"
+      }
+    ]
+  },
+  {
+    "id": "moda_ropa",
+    "name": "Moda y Ropa",
+    "icon": "/assets/packs/icon-moda.png",
+    "cover": "/assets/packs/cover-moda.jpg",
+    "pairs": [
+      {
+        "real": "Camiseta",
+        "fake": "Polo",
+        "hint": "Parte superior"
+      },
+      {
+        "real": "Jeans",
+        "fake": "Pantalón chino",
+        "hint": "Piernas"
+      },
+      {
+        "real": "Vestido",
+        "fake": "Falda",
+        "hint": "Prenda principal"
+      },
+      {
+        "real": "Zapatillas",
+        "fake": "Botines",
+        "hint": "Calzado"
+      },
+      {
+        "real": "Abrigo",
+        "fake": "Chaqueta de cuero",
+        "hint": "Exterior"
+      },
+      {
+        "real": "Bufanda",
+        "fake": "Pashmina",
+        "hint": "Cuello"
+      },
+      {
+        "real": "Sombrero",
+        "fake": "Gorra",
+        "hint": "Cabeza"
+      },
+      {
+        "real": "Gafas de sol",
+        "fake": "Lentes transparentes",
+        "hint": "Accesorio"
+      },
+      {
+        "real": "Bolso",
+        "fake": "Clutch",
+        "hint": "Bolsillo"
+      },
+      {
+        "real": "Reloj",
+        "fake": "Pulsera",
+        "hint": "Muñeca"
+      },
+      {
+        "real": "Anillo",
+        "fake": "Sortija",
+        "hint": "Dedo"
+      },
+      {
+        "real": "Aretes",
+        "fake": "Piercing",
+        "hint": "Oreja"
+      },
+      {
+        "real": "Traje",
+        "fake": "Blazer",
+        "hint": "Formal"
+      },
+      {
+        "real": "Corbata",
+        "fake": "Moño",
+        "hint": "Cuello"
+      },
+      {
+        "real": "Cinturón",
+        "fake": "Tirantes",
+        "hint": "Sujeción"
+      },
+      {
+        "real": "Medias",
+        "fake": "Calcetas",
+        "hint": "Pies"
+      },
+      {
+        "real": "Sudadera",
+        "fake": "Hoodie",
+        "hint": "Casual"
+      },
+      {
+        "real": "Camiseta sin mangas",
+        "fake": "Top deportivo",
+        "hint": "Verano"
+      },
+      {
+        "real": "Traje de baño",
+        "fake": "Bikini",
+        "hint": "Playa"
+      },
+      {
+        "real": "Sandalias",
+        "fake": "Alpargatas",
+        "hint": "Calzado ligero"
+      },
+      {
+        "real": "Botas de lluvia",
+        "fake": "Botas de nieve",
+        "hint": "Clima"
+      },
+      {
+        "real": "Parka",
+        "fake": "Rompevientos",
+        "hint": "Abrigo técnico"
+      },
+      {
+        "real": "Guantes",
+        "fake": "Mitones",
+        "hint": "Manos"
+      },
+      {
+        "real": "Pijama",
+        "fake": "Bata",
+        "hint": "Dormir"
+      },
+      {
+        "real": "Chaleco",
+        "fake": "Cardigan",
+        "hint": "Capa intermedia"
+      },
+      {
+        "real": "Leggings",
+        "fake": "Joggers",
+        "hint": "Cómodo"
+      },
+      {
+        "real": "Mono",
+        "fake": "Overol",
+        "hint": "Una pieza"
+      },
+      {
+        "real": "Vestido de noche",
+        "fake": "Vestido coctel",
+        "hint": "Elegante"
+      },
+      {
+        "real": "Camisa",
+        "fake": "Blusa",
+        "hint": "Botones"
+      },
+      {
+        "real": "Zapatos de tacón",
+        "fake": "Plataformas",
+        "hint": "Altura"
+      },
+      {
+        "real": "Mocasines",
+        "fake": "Oxford",
+        "hint": "Clásicos"
+      },
+      {
+        "real": "Gorra plana",
+        "fake": "Bucket hat",
+        "hint": "Sombreros"
+      },
+      {
+        "real": "Collar",
+        "fake": "Gargantilla",
+        "hint": "Cuello"
+      },
+      {
+        "real": "Pañoleta",
+        "fake": "Bandana",
+        "hint": "Accesorio"
+      },
+      {
+        "real": "Kimono",
+        "fake": "Cárdigan ligero",
+        "hint": "Capa"
+      },
+      {
+        "real": "Chubasquero",
+        "fake": "Impermeable",
+        "hint": "Lluvia"
+      },
+      {
+        "real": "Lentes azules",
+        "fake": "Lentes amarillos",
+        "hint": "Filtro"
+      }
+    ]
+  },
+  {
+    "id": "juegos",
+    "name": "Juegos",
+    "icon": "/assets/packs/icon-juegos.png",
+    "cover": "/assets/packs/cover-juegos.jpg",
+    "pairs": [
+      {
+        "real": "Cartas",
+        "fake": "Fichas",
+        "hint": "Mesa"
+      },
+      {
+        "real": "Dados",
+        "fake": "D20",
+        "hint": "Azar"
+      },
+      {
+        "real": "Tablero",
+        "fake": "Tapete",
+        "hint": "Superficie"
+      },
+      {
+        "real": "Juego de roles",
+        "fake": "Juego de mesa",
+        "hint": "Experiencia"
+      },
+      {
+        "real": "Cooperativo",
+        "fake": "Competitivo",
+        "hint": "Modo"
+      },
+      {
+        "real": "Puzzle",
+        "fake": "Rompecabezas 3D",
+        "hint": "Armar"
+      },
+      {
+        "real": "Ajedrez",
+        "fake": "Go",
+        "hint": "Estrategia"
+      },
+      {
+        "real": "Damas",
+        "fake": "Backgammon",
+        "hint": "Clásicos"
+      },
+      {
+        "real": "Dominó",
+        "fake": "Mahjong",
+        "hint": "Fichas"
+      },
+      {
+        "real": "Memoria",
+        "fake": "Loto",
+        "hint": "Parejas"
+      },
+      {
+        "real": "Trivia",
+        "fake": "Preguntas rápidas",
+        "hint": "Conocimiento"
+      },
+      {
+        "real": "Juego de palabras",
+        "fake": "Stop",
+        "hint": "Vocabulario"
+      },
+      {
+        "real": "Mímica",
+        "fake": "Charadas",
+        "hint": "Gestos"
+      },
+      {
+        "real": "Videojuego de carreras",
+        "fake": "Videojuego de lucha",
+        "hint": "Género"
+      },
+      {
+        "real": "FPS",
+        "fake": "Battle royale",
+        "hint": "Disparos"
+      },
+      {
+        "real": "Sandbox",
+        "fake": "Mundo abierto",
+        "hint": "Explorar"
+      },
+      {
+        "real": "Juego musical",
+        "fake": "Ritmo",
+        "hint": "Seguir beats"
+      },
+      {
+        "real": "Roguelike",
+        "fake": "Metroidvania",
+        "hint": "Progresión"
+      },
+      {
+        "real": "Party game",
+        "fake": "Juego social",
+        "hint": "Reunión"
+      },
+      {
+        "real": "Juego de terror",
+        "fake": "Survival",
+        "hint": "Miedo"
+      },
+      {
+        "real": "Simulador",
+        "fake": "Tycoon",
+        "hint": "Gestión"
+      },
+      {
+        "real": "Idle game",
+        "fake": "Clicker",
+        "hint": "Progreso"
+      },
+      {
+        "real": "Juego de cartas coleccionables",
+        "fake": "Juego de miniaturas",
+        "hint": "Colecciones"
+      },
+      {
+        "real": "Escape room",
+        "fake": "Gymkana",
+        "hint": "Resolver"
+      },
+      {
+        "real": "Jenga",
+        "fake": "Kapla",
+        "hint": "Bloques"
+      },
+      {
+        "real": "Pictionary",
+        "fake": "Dibuja y adivina",
+        "hint": "Arte"
+      },
+      {
+        "real": "Karaoke",
+        "fake": "Sing along",
+        "hint": "Cantar"
+      },
+      {
+        "real": "Arcade",
+        "fake": "Pinball",
+        "hint": "Máquinas"
+      },
+      {
+        "real": "Juego de plataformas",
+        "fake": "Runner",
+        "hint": "Saltar"
+      },
+      {
+        "real": "MOBA",
+        "fake": "RTS",
+        "hint": "Equipos"
+      },
+      {
+        "real": "Match 3",
+        "fake": "Bubble shooter",
+        "hint": "Rompe piezas"
+      },
+      {
+        "real": "Wordle",
+        "fake": "Sopa de letras",
+        "hint": "Palabras"
+      },
+      {
+        "real": "Laberinto",
+        "fake": "Maze runner",
+        "hint": "Salir"
+      },
+      {
+        "real": "Juego de cartas español",
+        "fake": "UNO",
+        "hint": "Colores"
+      },
+      {
+        "real": "Lotería",
+        "fake": "Bingo",
+        "hint": "Suerte"
+      },
+      {
+        "real": "Dados de rol",
+        "fake": "Dados normales",
+        "hint": "Poliedros"
+      },
+      {
+        "real": "Juego narrativo",
+        "fake": "Cuentacuentos",
+        "hint": "Historia"
+      }
+    ]
+  },
+  {
+    "id": "fantasia",
+    "name": "Fantasía",
+    "icon": "/assets/packs/icon-fantasia.png",
+    "cover": "/assets/packs/cover-fantasia.jpg",
+    "pairs": [
+      {
+        "real": "Dragón",
+        "fake": "Wyvern",
+        "hint": "Criatura"
+      },
+      {
+        "real": "Mago",
+        "fake": "Hechicero",
+        "hint": "Magia"
+      },
+      {
+        "real": "Guerrero",
+        "fake": "Paladín",
+        "hint": "Luchador"
+      },
+      {
+        "real": "Elfo",
+        "fake": "Hada",
+        "hint": "Bosque"
+      },
+      {
+        "real": "Enano",
+        "fake": "Gnomo",
+        "hint": "Forja"
+      },
+      {
+        "real": "Espada legendaria",
+        "fake": "Espada oxidada",
+        "hint": "Arma"
+      },
+      {
+        "real": "Castillo",
+        "fake": "Fortaleza",
+        "hint": "Lugar"
+      },
+      {
+        "real": "Reino",
+        "fake": "Imperio",
+        "hint": "Territorio"
+      },
+      {
+        "real": "Reina",
+        "fake": "Princesa",
+        "hint": "Corona"
+      },
+      {
+        "real": "Orco",
+        "fake": "Trol",
+        "hint": "Bestia"
+      },
+      {
+        "real": "Grifo",
+        "fake": "Hipogrifo",
+        "hint": "Mitológico"
+      },
+      {
+        "real": "Caballero",
+        "fake": "Escudero",
+        "hint": "Acompañante"
+      },
+      {
+        "real": "Poción",
+        "fake": "Elixir",
+        "hint": "Breaje"
+      },
+      {
+        "real": "Hechizo de fuego",
+        "fake": "Hechizo de hielo",
+        "hint": "Elementos"
+      },
+      {
+        "real": "Báculo",
+        "fake": "Varita",
+        "hint": "Canalizador"
+      },
+      {
+        "real": "Cueva",
+        "fake": "Mazmorra",
+        "hint": "Exploración"
+      },
+      {
+        "real": "Tesoro",
+        "fake": "Reliquia",
+        "hint": "Botín"
+      },
+      {
+        "real": "Mapa antiguo",
+        "fake": "Pergamino",
+        "hint": "Guía"
+      },
+      {
+        "real": "Profecía",
+        "fake": "Leyenda",
+        "hint": "Destino"
+      },
+      {
+        "real": "Dragona",
+        "fake": "Serpiente alada",
+        "hint": "Aire"
+      },
+      {
+        "real": "Portal",
+        "fake": "Puerta mágica",
+        "hint": "Transporte"
+      },
+      {
+        "real": "Armadura",
+        "fake": "Cota de malla",
+        "hint": "Protección"
+      },
+      {
+        "real": "Talismán",
+        "fake": "Amuleto",
+        "hint": "Suerte"
+      },
+      {
+        "real": "Criatura marina",
+        "fake": "Sirena",
+        "hint": "Océano"
+      },
+      {
+        "real": "Bosque encantado",
+        "fake": "Jardín secreto",
+        "hint": "Lugar mágico"
+      },
+      {
+        "real": "Rey caído",
+        "fake": "Usurpador",
+        "hint": "Trono"
+      },
+      {
+        "real": "Invocación",
+        "fake": "Conjuro",
+        "hint": "Magia"
+      },
+      {
+        "real": "Montura",
+        "fake": "Pegaso",
+        "hint": "Volar"
+      },
+      {
+        "real": "Trueno",
+        "fake": "Relámpago",
+        "hint": "Tormenta"
+      },
+      {
+        "real": "Mercader",
+        "fake": "Tabernero",
+        "hint": "Personaje"
+      },
+      {
+        "real": "Bestiario",
+        "fake": "Diario de viaje",
+        "hint": "Registro"
+      },
+      {
+        "real": "Cofre",
+        "fake": "Saco",
+        "hint": "Guardar"
+      },
+      {
+        "real": "Cetro",
+        "fake": "Corona",
+        "hint": "Poder"
+      },
+      {
+        "real": "Gólem",
+        "fake": "Gigante",
+        "hint": "Piedra"
+      },
+      {
+        "real": "Fénix",
+        "fake": "Ave dorada",
+        "hint": "Renacer"
+      },
+      {
+        "real": "Luz sagrada",
+        "fake": "Sombra",
+        "hint": "Contrastes"
+      },
+      {
+        "real": "Runas",
+        "fake": "Símbolos",
+        "hint": "Idioma antiguo"
+      }
+    ]
+  },
+  {
+    "id": "marcas",
+    "name": "Marcas",
+    "icon": "/assets/packs/icon-marcas.png",
+    "cover": "/assets/packs/cover-marcas.jpg",
+    "pairs": [
+      {
+        "real": "Refresco cola",
+        "fake": "Refresco de naranja",
+        "hint": "Bebida gaseosa"
+      },
+      {
+        "real": "Smartphone premium",
+        "fake": "Smartphone de gama media",
+        "hint": "Tecnología"
+      },
+      {
+        "real": "Zapatillas deportivas icónicas",
+        "fake": "Zapatillas urbanas",
+        "hint": "Calzado"
+      },
+      {
+        "real": "Cereal de miel",
+        "fake": "Cereal de chocolate",
+        "hint": "Desayuno"
+      },
+      {
+        "real": "Café instantáneo",
+        "fake": "Café de grano",
+        "hint": "Bebida"
+      },
+      {
+        "real": "Chocolate en barra",
+        "fake": "Chocolate relleno",
+        "hint": "Dulce"
+      },
+      {
+        "real": "Automóvil eléctrico",
+        "fake": "Automóvil híbrido",
+        "hint": "Transporte"
+      },
+      {
+        "real": "Laptop ultraligera",
+        "fake": "Laptop gamer",
+        "hint": "Computadoras"
+      },
+      {
+        "real": "Auriculares con cancelación",
+        "fake": "Auriculares deportivos",
+        "hint": "Audio"
+      },
+      {
+        "real": "Reloj inteligente",
+        "fake": "Reloj deportivo",
+        "hint": "Wearables"
+      },
+      {
+        "real": "Cámara de acción",
+        "fake": "Cámara mirrorless",
+        "hint": "Imagen"
+      },
+      {
+        "real": "Televisor 4K",
+        "fake": "Televisor curvo",
+        "hint": "Pantalla"
+      },
+      {
+        "real": "Bebida energética",
+        "fake": "Bebida isotónica",
+        "hint": "Refresco"
+      },
+      {
+        "real": "Hamburguesa de cadena",
+        "fake": "Hamburguesa gourmet",
+        "hint": "Comida rápida"
+      },
+      {
+        "real": "Pollo frito famoso",
+        "fake": "Pollo asado rápido",
+        "hint": "Fast food"
+      },
+      {
+        "real": "Helado en cono",
+        "fake": "Helado en vasito",
+        "hint": "Postre"
+      },
+      {
+        "real": "Papas fritas clásicas",
+        "fake": "Papas con sabor",
+        "hint": "Snack"
+      },
+      {
+        "real": "Salsa de tomate",
+        "fake": "Salsa barbecue",
+        "hint": "Condimento"
+      },
+      {
+        "real": "Mermelada de fresa",
+        "fake": "Mermelada de durazno",
+        "hint": "Untables"
+      },
+      {
+        "real": "Banco digital",
+        "fake": "Banco tradicional",
+        "hint": "Finanzas"
+      },
+      {
+        "real": "Tarjeta de fidelidad",
+        "fake": "Tarjeta de crédito",
+        "hint": "Membresía"
+      },
+      {
+        "real": "Aplicación de transporte",
+        "fake": "Aplicación de comida",
+        "hint": "Apps"
+      },
+      {
+        "real": "Servicio de streaming",
+        "fake": "Canal de cable",
+        "hint": "Entretenimiento"
+      },
+      {
+        "real": "Plataforma de música",
+        "fake": "Plataforma de podcasts",
+        "hint": "Audio"
+      },
+      {
+        "real": "Zapato de lujo",
+        "fake": "Zapato de diseñador",
+        "hint": "Moda"
+      },
+      {
+        "real": "Cartera icónica",
+        "fake": "Cartera artesanal",
+        "hint": "Accesorio"
+      },
+      {
+        "real": "Perfume clásico",
+        "fake": "Perfume deportivo",
+        "hint": "Fragancia"
+      },
+      {
+        "real": "Maquillaje mate",
+        "fake": "Maquillaje luminoso",
+        "hint": "Cosmética"
+      },
+      {
+        "real": "Detergente líquido",
+        "fake": "Detergente en cápsulas",
+        "hint": "Limpieza"
+      },
+      {
+        "real": "Champú hidratante",
+        "fake": "Champú volumen",
+        "hint": "Cabello"
+      },
+      {
+        "real": "Jabón antibacterial",
+        "fake": "Jabón neutro",
+        "hint": "Baño"
+      },
+      {
+        "real": "Cámara instantánea",
+        "fake": "Cámara desechable",
+        "hint": "Foto"
+      },
+      {
+        "real": "Consola retro",
+        "fake": "Consola actual",
+        "hint": "Videojuegos"
+      },
+      {
+        "real": "Refresco dietético",
+        "fake": "Refresco cero azúcar",
+        "hint": "Light"
+      },
+      {
+        "real": "Galletas rellenas",
+        "fake": "Galletas saladas",
+        "hint": "Snack"
+      },
+      {
+        "real": "Yogur griego",
+        "fake": "Yogur bebible",
+        "hint": "Lácteo"
+      },
+      {
+        "real": "Bebida vegetal",
+        "fake": "Leche entera",
+        "hint": "Alternativa"
+      }
+    ]
+  },
+  {
+    "id": "cuerpo_salud",
+    "name": "Cuerpo y Salud",
+    "icon": "/assets/packs/icon-cuerpo.png",
+    "cover": "/assets/packs/cover-cuerpo.jpg",
+    "pairs": [
+      {
+        "real": "Corazón",
+        "fake": "Pulmón",
+        "hint": "Órganos"
+      },
+      {
+        "real": "Hueso",
+        "fake": "Cartílago",
+        "hint": "Estructura"
+      },
+      {
+        "real": "Músculo",
+        "fake": "Tendón",
+        "hint": "Movimiento"
+      },
+      {
+        "real": "Rodilla",
+        "fake": "Codo",
+        "hint": "Articulaciones"
+      },
+      {
+        "real": "Ojo",
+        "fake": "Oído",
+        "hint": "Sentidos"
+      },
+      {
+        "real": "Nariz",
+        "fake": "Boca",
+        "hint": "Rostro"
+      },
+      {
+        "real": "Estómago",
+        "fake": "Intestino",
+        "hint": "Digestión"
+      },
+      {
+        "real": "Hígado",
+        "fake": "Riñón",
+        "hint": "Filtros"
+      },
+      {
+        "real": "Piel",
+        "fake": "Epidermis",
+        "hint": "Capa externa"
+      },
+      {
+        "real": "Cabello",
+        "fake": "Vello",
+        "hint": "Protección"
+      },
+      {
+        "real": "Uña",
+        "fake": "Cutícula",
+        "hint": "Manos"
+      },
+      {
+        "real": "Cerebro",
+        "fake": "Cerebelo",
+        "hint": "Cabeza"
+      },
+      {
+        "real": "Columna",
+        "fake": "Espalda",
+        "hint": "Soporte"
+      },
+      {
+        "real": "Pulgar",
+        "fake": "Índice",
+        "hint": "Dedos"
+      },
+      {
+        "real": "Talón",
+        "fake": "Empeine",
+        "hint": "Pie"
+      },
+      {
+        "real": "Cuello",
+        "fake": "Garganta",
+        "hint": "Conexión"
+      },
+      {
+        "real": "Párpado",
+        "fake": "Pestaña",
+        "hint": "Ojo"
+      },
+      {
+        "real": "Pupila",
+        "fake": "Iris",
+        "hint": "Mirada"
+      },
+      {
+        "real": "Mandíbula",
+        "fake": "Maxilar",
+        "hint": "Boca"
+      },
+      {
+        "real": "Costilla",
+        "fake": "Clavícula",
+        "hint": "Caja torácica"
+      },
+      {
+        "real": "Cartílago de la oreja",
+        "fake": "Lóbulo",
+        "hint": "Escuchar"
+      },
+      {
+        "real": "Sien",
+        "fake": "Frente",
+        "hint": "Cabeza"
+      },
+      {
+        "real": "Hombro",
+        "fake": "Omóplato",
+        "hint": "Arriba"
+      },
+      {
+        "real": "Cadera",
+        "fake": "Pelvis",
+        "hint": "Centro"
+      },
+      {
+        "real": "Pantorrilla",
+        "fake": "Muslo",
+        "hint": "Pierna"
+      },
+      {
+        "real": "Muñeca",
+        "fake": "Antebrazo",
+        "hint": "Brazo"
+      },
+      {
+        "real": "Pulso",
+        "fake": "Latido",
+        "hint": "Ritmo"
+      },
+      {
+        "real": "Arteria",
+        "fake": "Vena",
+        "hint": "Sangre"
+      },
+      {
+        "real": "Ligamento",
+        "fake": "Menisco",
+        "hint": "Rodilla"
+      },
+      {
+        "real": "Glúteo",
+        "fake": "Coxis",
+        "hint": "Trasero"
+      },
+      {
+        "real": "Salud dental",
+        "fake": "Ortodoncia",
+        "hint": "Sonrisa"
+      },
+      {
+        "real": "Respiración",
+        "fake": "Inhalación",
+        "hint": "Aire"
+      },
+      {
+        "real": "Sistema inmune",
+        "fake": "Anticuerpo",
+        "hint": "Defensa"
+      },
+      {
+        "real": "Sudor",
+        "fake": "Sebum",
+        "hint": "Piel"
+      },
+      {
+        "real": "Párpado inferior",
+        "fake": "Bolsa",
+        "hint": "Ojos cansados"
+      },
+      {
+        "real": "Cráneo",
+        "fake": "Caja craneal",
+        "hint": "Protección"
+      },
+      {
+        "real": "Paladar",
+        "fake": "Lengua",
+        "hint": "Boca"
+      }
+    ]
+  },
+  {
+    "id": "personajes",
+    "name": "Personajes",
+    "icon": "/assets/packs/icon-personajes.png",
+    "cover": "/assets/packs/cover-personajes.jpg",
+    "pairs": [
+      {
+        "real": "Pirata",
+        "fake": "Corsario",
+        "hint": "Mar"
+      },
+      {
+        "real": "Ninja",
+        "fake": "Samurái",
+        "hint": "Silencio"
+      },
+      {
+        "real": "Detective",
+        "fake": "Espía",
+        "hint": "Investigar"
+      },
+      {
+        "real": "Cowboy",
+        "fake": "Vaquero urbano",
+        "hint": "Oeste"
+      },
+      {
+        "real": "Astronauta",
+        "fake": "Piloto",
+        "hint": "Espacio"
+      },
+      {
+        "real": "Vampiro",
+        "fake": "Murciélago humanoide",
+        "hint": "Noche"
+      },
+      {
+        "real": "Héroe",
+        "fake": "Vigilante",
+        "hint": "Salvador"
+      },
+      {
+        "real": "Villano",
+        "fake": "Antihéroe",
+        "hint": "Opuesto"
+      },
+      {
+        "real": "Rey",
+        "fake": "Duque",
+        "hint": "Realeza"
+      },
+      {
+        "real": "Reina",
+        "fake": "Condesa",
+        "hint": "Corona"
+      },
+      {
+        "real": "Chef famoso",
+        "fake": "Cocinero callejero",
+        "hint": "Cocina"
+      },
+      {
+        "real": "Médico de emergencia",
+        "fake": "Paramédico",
+        "hint": "Salud"
+      },
+      {
+        "real": "Ingeniero loco",
+        "fake": "Científico",
+        "hint": "Inventos"
+      },
+      {
+        "real": "Explorador",
+        "fake": "Cartógrafo",
+        "hint": "Viajes"
+      },
+      {
+        "real": "Alquimista",
+        "fake": "Boticario",
+        "hint": "Pociones"
+      },
+      {
+        "real": "Monje",
+        "fake": "Sacerdote",
+        "hint": "Templo"
+      },
+      {
+        "real": "Bailarín",
+        "fake": "Acróbata",
+        "hint": "Escenario"
+      },
+      {
+        "real": "Gladiador",
+        "fake": "Luchador",
+        "hint": "Arena"
+      },
+      {
+        "real": "Capitán",
+        "fake": "Marinero",
+        "hint": "Barco"
+      },
+      {
+        "real": "Robot humanoide",
+        "fake": "Android sencillo",
+        "hint": "Tecnología"
+      },
+      {
+        "real": "Piloto de carreras",
+        "fake": "Mecánico",
+        "hint": "Motores"
+      },
+      {
+        "real": "Cazador",
+        "fake": "Rastreador",
+        "hint": "Bosque"
+      },
+      {
+        "real": "Espadachín",
+        "fake": "Mosquetero",
+        "hint": "Duelos"
+      },
+      {
+        "real": "Ladrón",
+        "fake": "Pícaro",
+        "hint": "Sigilo"
+      },
+      {
+        "real": "Druida",
+        "fake": "Chamán",
+        "hint": "Naturaleza"
+      },
+      {
+        "real": "Caballero oscuro",
+        "fake": "Caballero blanco",
+        "hint": "Contraste"
+      },
+      {
+        "real": "Bruja",
+        "fake": "Ilusionista",
+        "hint": "Hechizos"
+      },
+      {
+        "real": "Sirena",
+        "fake": "Nereida",
+        "hint": "Mar"
+      },
+      {
+        "real": "Gigante",
+        "fake": "Ogros",
+        "hint": "Tamaño"
+      },
+      {
+        "real": "Príncipe",
+        "fake": "Paje",
+        "hint": "Palacio"
+      },
+      {
+        "real": "Inventor",
+        "fake": "Tecnólogo",
+        "hint": "Ideas"
+      },
+      {
+        "real": "Guardabosques",
+        "fake": "Arquero",
+        "hint": "Arco"
+      },
+      {
+        "real": "Capitana",
+        "fake": "Oficial",
+        "hint": "Mando"
+      },
+      {
+        "real": "Maestro",
+        "fake": "Sensei",
+        "hint": "Aprendizaje"
+      },
+      {
+        "real": "Artista callejero",
+        "fake": "Mimo",
+        "hint": "Expresión"
+      },
+      {
+        "real": "Mensajero",
+        "fake": "Cartero",
+        "hint": "Entrega"
+      },
+      {
+        "real": "Trotamundos",
+        "fake": "Nómada",
+        "hint": "Viajes"
+      }
+    ]
+  },
+  {
+    "id": "navidad",
+    "name": "Misterio Navideño",
+    "icon": "/assets/packs/icon-navidad.png",
+    "cover": "/assets/packs/cover-navidad.jpg",
+    "pairs": [
+      {
+        "real": "Papá Noel",
+        "fake": "Elfo",
+        "hint": "Personaje"
+      },
+      {
+        "real": "Árbol de navidad",
+        "fake": "Guirnalda",
+        "hint": "Decoración"
+      },
+      {
+        "real": "Trineo",
+        "fake": "Carroza",
+        "hint": "Transporte"
+      },
+      {
+        "real": "Nieve",
+        "fake": "Escarcha",
+        "hint": "Invierno"
+      },
+      {
+        "real": "Regalo",
+        "fake": "Tarjeta",
+        "hint": "Obsequio"
+      },
+      {
+        "real": "Villancico",
+        "fake": "Canción de invierno",
+        "hint": "Música"
+      },
+      {
+        "real": "Muérdago",
+        "fake": "Flor de pascua",
+        "hint": "Planta"
+      },
+      {
+        "real": "Muñeco de nieve",
+        "fake": "Ángel de nieve",
+        "hint": "Jugar"
+      },
+      {
+        "real": "Chimenea",
+        "fake": "Calefactor",
+        "hint": "Calor"
+      },
+      {
+        "real": "Calcetín navideño",
+        "fake": "Bota",
+        "hint": "Colgado"
+      },
+      {
+        "real": "Galletas de jengibre",
+        "fake": "Panettone",
+        "hint": "Dulces"
+      },
+      {
+        "real": "Bastón de caramelo",
+        "fake": "Chocolate caliente",
+        "hint": "Dulces"
+      },
+      {
+        "real": "Reno",
+        "fake": "Alce",
+        "hint": "Animal"
+      },
+      {
+        "real": "Campanas",
+        "fake": "Cascabeles",
+        "hint": "Sonido"
+      },
+      {
+        "real": "Corona navideña",
+        "fake": "Centro de mesa",
+        "hint": "Puerta"
+      },
+      {
+        "real": "Luces",
+        "fake": "Velas",
+        "hint": "Brillo"
+      },
+      {
+        "real": "Nochebuena",
+        "fake": "Nochevieja",
+        "hint": "Fechas"
+      },
+      {
+        "real": "Belén",
+        "fake": "Pesebre",
+        "hint": "Escena"
+      },
+      {
+        "real": "Carta",
+        "fake": "Lista de deseos",
+        "hint": "Escribir"
+      },
+      {
+        "real": "Estrella",
+        "fake": "Cometa",
+        "hint": "Cima del árbol"
+      },
+      {
+        "real": "Guantes",
+        "fake": "Manoplas",
+        "hint": "Invierno"
+      },
+      {
+        "real": "Bufanda roja",
+        "fake": "Bufanda verde",
+        "hint": "Abrigo"
+      },
+      {
+        "real": "Suéter feo",
+        "fake": "Suéter bonito",
+        "hint": "Fiesta temática"
+      },
+      {
+        "real": "Turrón",
+        "fake": "Mazapán",
+        "hint": "Dulces clásicos"
+      },
+      {
+        "real": "Canelones",
+        "fake": "Pavo",
+        "hint": "Cena"
+      },
+      {
+        "real": "Sled",
+        "fake": "Snowboard",
+        "hint": "Invierno"
+      },
+      {
+        "real": "Calendario de adviento",
+        "fake": "Cuenta regresiva",
+        "hint": "Puertas"
+      },
+      {
+        "real": "Festival de luces",
+        "fake": "Mercado navideño",
+        "hint": "Evento"
+      },
+      {
+        "real": "Canción de campana",
+        "fake": "Campanita",
+        "hint": "Sonido"
+      },
+      {
+        "real": "Noche de paz",
+        "fake": "Noche de amor",
+        "hint": "Villancico"
+      },
+      {
+        "real": "Piñata",
+        "fake": "Rompé",
+        "hint": "Celebración"
+      },
+      {
+        "real": "Chocolate caliente",
+        "fake": "Sidra",
+        "hint": "Bebida"
+      },
+      {
+        "real": "Ponche de huevo",
+        "fake": "Sidra con canela",
+        "hint": "Bebida festiva"
+      },
+      {
+        "real": "Media noche",
+        "fake": "Medianoche",
+        "hint": "Momento"
+      },
+      {
+        "real": "Acebo",
+        "fake": "Pino",
+        "hint": "Plantas"
+      },
+      {
+        "real": "Tarjeta virtual",
+        "fake": "Mensaje de texto",
+        "hint": "Saludos"
+      },
+      {
+        "real": "Gorro rojo",
+        "fake": "Gorro verde",
+        "hint": "Cabeza"
+      }
+    ],
+    "tags": [
+      "estacional"
+    ]
+  },
+  {
+    "id": "misterioso",
+    "name": "Paquete Misterioso",
+    "icon": "/assets/packs/icon-misterioso.png",
+    "cover": "/assets/packs/cover-misterioso.jpg",
+    "pairs": [
+      {
+        "real": "Llave antigua",
+        "fake": "Runas",
+        "hint": "Objeto enigmático"
+      },
+      {
+        "real": "Maletín cerrado",
+        "fake": "Caja fuerte",
+        "hint": "Algo oculto"
+      },
+      {
+        "real": "Mapa sin leyenda",
+        "fake": "Mapa invertido",
+        "hint": "Orientación dudosa"
+      },
+      {
+        "real": "Frasco con líquido azul",
+        "fake": "Frasco con líquido verde",
+        "hint": "Poción"
+      },
+      {
+        "real": "Carta sin firma",
+        "fake": "Nota cifrada",
+        "hint": "Mensaje"
+      },
+      {
+        "real": "Silueta",
+        "fake": "Sombra",
+        "hint": "Figura"
+      },
+      {
+        "real": "Reloj parado",
+        "fake": "Reloj atrasado",
+        "hint": "Tiempo"
+      },
+      {
+        "real": "Pasadizo",
+        "fake": "Entrada secreta",
+        "hint": "Camino"
+      },
+      {
+        "real": "Candela",
+        "fake": "Linterna vieja",
+        "hint": "Luz"
+      },
+      {
+        "real": "Gafas oscuras",
+        "fake": "Lupa",
+        "hint": "Detective"
+      },
+      {
+        "real": "Fotografía borrosa",
+        "fake": "Fotografía rasgada",
+        "hint": "Prueba"
+      },
+      {
+        "real": "Botón rojo",
+        "fake": "Palanca",
+        "hint": "Acción"
+      },
+      {
+        "real": "Máscara",
+        "fake": "Antifaz",
+        "hint": "Ocultar identidad"
+      },
+      {
+        "real": "Ruido extraño",
+        "fake": "Susurro",
+        "hint": "Sonido"
+      },
+      {
+        "real": "Caja musical",
+        "fake": "Campanilla",
+        "hint": "Música misteriosa"
+      },
+      {
+        "real": "Sombrero negro",
+        "fake": "Gabardina",
+        "hint": "Espía"
+      },
+      {
+        "real": "Pluma estilográfica",
+        "fake": "Pluma de ave",
+        "hint": "Escribir"
+      },
+      {
+        "real": "Botella con mensaje",
+        "fake": "Botella vacía",
+        "hint": "Mar"
+      },
+      {
+        "real": "Pergamino quemado",
+        "fake": "Pergamino roto",
+        "hint": "Antiguo"
+      },
+      {
+        "real": "Cofre pequeño",
+        "fake": "Bolsa pesada",
+        "hint": "Tesoros"
+      },
+      {
+        "real": "Grabadora",
+        "fake": "Micrófono oculto",
+        "hint": "Escuchar"
+      },
+      {
+        "real": "Lámpara de aceite",
+        "fake": "Linterna LED",
+        "hint": "Iluminar"
+      },
+      {
+        "real": "Bastón",
+        "fake": "Paraguas",
+        "hint": "Objeto largo"
+      },
+      {
+        "real": "Sello de cera",
+        "fake": "Cinta adhesiva",
+        "hint": "Cerrar"
+      },
+      {
+        "real": "Mapa estelar",
+        "fake": "Carta astral",
+        "hint": "Cielo"
+      },
+      {
+        "real": "Vestigio",
+        "fake": "Restos",
+        "hint": "Arqueología"
+      },
+      {
+        "real": "Llave USB",
+        "fake": "Disco oculto",
+        "hint": "Datos"
+      },
+      {
+        "real": "Insignia",
+        "fake": "Placa",
+        "hint": "Identificación"
+      },
+      {
+        "real": "Anillo con símbolo",
+        "fake": "Anillo liso",
+        "hint": "Joyas"
+      },
+      {
+        "real": "Bolsa de pistas",
+        "fake": "Carpeta de caso",
+        "hint": "Investigación"
+      },
+      {
+        "real": "Código Morse",
+        "fake": "Código binario",
+        "hint": "Lenguaje secreto"
+      },
+      {
+        "real": "Cubo Rubik",
+        "fake": "Cubo secreto",
+        "hint": "Rompecabezas"
+      },
+      {
+        "real": "Candado con combinación",
+        "fake": "Candado con llave",
+        "hint": "Cerrar"
+      },
+      {
+        "real": "Caja sorpresa",
+        "fake": "Caja vacía",
+        "hint": "Curiosidad"
+      },
+      {
+        "real": "Ruinas",
+        "fake": "Caverna",
+        "hint": "Lugar"
+      },
+      {
+        "real": "Página arrancada",
+        "fake": "Página manchada",
+        "hint": "Libro"
+      },
+      {
+        "real": "Huella",
+        "fake": "Marcas",
+        "hint": "Rastro"
+      }
+    ],
+    "description": "Mix para partidas caóticas"
+  }
+]
